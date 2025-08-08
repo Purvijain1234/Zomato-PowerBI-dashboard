@@ -14,7 +14,7 @@ It provides insights into:
 ## 📊 Dashboard Preview
 
 <p align="center">
-   **Zomato Dashboard**
+   Zomato Dashboard
    <img width="1000" height="650" alt="Image" src="https://github.com/user-attachments/assets/3eec70ae-3b1a-45e8-8b05-af6b546628b2" />
 </p>
 
@@ -59,9 +59,8 @@ Dataset inspired by publicly available Zomato restaurant data.
  
 ## 📧 Contact
 Created by **Purvi Jain**  
-💼 LinkedIn: linkedin.com/in/purvi-jain-315683326
-
-📩 Email: purvijain2708@gmail.com
+ - 💼 LinkedIn: linkedin.com/in/purvi-jain-315683326
+ - 📩 Email: purvijain2708@gmail.com
 
 ---
 
