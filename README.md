@@ -12,8 +12,10 @@ It provides insights into:
 ---
 
 ## 📊 Dashboard Preview
-![Zomato Dashboard](Zomato Dashboard.png)
-
+![Zomato Dashboard]
+<p align="center">
+  <img src="https://github.com/Purvijain1234/Zomato-PowerBI-dashboard/issues/1#issue-3302972244" alt="Dashboard Preview" width="800">
+</p>
 ---
 
 ## 🔍 Key Insights
@@ -52,9 +54,9 @@ It provides insights into:
 Dataset inspired by publicly available Zomato restaurant data.
 
 ---
-
+ 
 ## 📧 Contact
-Created by **Purvi**  
+Created by **Purvi Jain**  
 💼 LinkedIn: linkedin.com/in/purvi-jain-315683326
 📩 Email: purvijain2708@gmail.com
 
