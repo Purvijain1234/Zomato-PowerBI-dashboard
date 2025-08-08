@@ -12,10 +12,11 @@ It provides insights into:
 ---
 
 ## 📊 Dashboard Preview
-![Zomato Dashboard]
+**Zomato Dashboard**
 <p align="center">
-  <img src="https://github.com/Purvijain1234/Zomato-PowerBI-dashboard/issues/1#issue-3302972244" alt="Dashboard Preview" width="800">
+   <img width="1163" height="683" alt="Image" src="https://github.com/user-attachments/assets/3eec70ae-3b1a-45e8-8b05-af6b546628b2" />
 </p>
+
 ---
 
 ## 🔍 Key Insights
